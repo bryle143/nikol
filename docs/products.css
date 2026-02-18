@@ -1,0 +1,111 @@
+.container img{
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+body{
+    background-color: rgb(202, 211, 179);
+    width: 100%;
+}
+.container{
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+.card-body .card-title,.card-text{
+    margin: 2px;
+}
+.carousel img{
+    
+    height: 100%;
+    width:100%;
+}
+#caro{
+    
+    margin: auto;
+    width: 300px;
+    
+}
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    width: 100px;
+    margin-top: 5px;
+}
+ul{
+    list-style: none;
+}
+.nav-item>a{
+    color:rgb(97, 133, 97);
+    padding-top: 7px;
+    padding-left: 10%;
+}
+.navbar-brand>img{
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+   margin-top: 7px;
+    
+}
+nav{
+   
+    height: 70px;
+    padding-bottom: -10px;
+}
+.bg-light{
+    background-color: rgb(128, 240, 206) !important;
+}
+
+#logo-head{
+    margin-top: 100px;
+    height: 40px;
+    border-radius: 20px;
+
+    
+}
+
+#search:focus{
+    outline: none;
+    
+    margin: 0px;
+}
+#seach>i{
+    color:red;
+    height: 50px;
+   
+    
+}
+#search{
+    width: 100px;
+     border: none; 
+     margin-left: 1px; 
+     margin-top: 3px;
+}
+button{
+    border: none;
+}
+img{
+    height: 50px;
+    width: auto;
+    border-radius: 25px;
+}
+.rounded-circle{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.navbar-toggler{
+    height:40px;
+    width: 50px;
+    margin-right: 11%;
+}
+.card-body>div{
+    display: flex;
+    justify-content: center;
+}
+.card:hover{
+    box-shadow: 2px 5px 5px rgb(175, 219, 199);
+}
+.modal-header,.modal-body,.modal-footer{
+    border: none;
+}
+

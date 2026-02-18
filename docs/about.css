@@ -1,0 +1,133 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img1 {
+    text-align: center;
+
+}
+
+.img1 img {
+    height: 400px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+table,
+tr,
+th,
+td {
+
+    font-size: 10px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+.p2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+
+.b1 {
+    text-align: center;
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 20px;
+    padding: 10px;
+}
+
+div>a i {
+    font-size: 100px;
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    width: 100px;
+    margin-top: 5px;
+}
+ul{
+    list-style: none;
+}
+.nav-item>a{
+    color:rgb(97, 133, 97);
+    padding-top: 7px;
+    padding-left: 10%;
+}
+.navbar-brand>img{
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+   margin-top: 7px;
+    
+}
+nav{
+   
+    height: 70px;
+    padding-bottom: -10px;
+}
+
+#logo-head{
+    margin-top: 100px;
+    height: 40px;
+    border-radius: 20px;
+
+    
+}
+
+#search:focus{
+    outline: none;
+    margin: 0px;
+}
+button{
+    border: none;
+}
+img{
+    height: 50px;
+    width: auto;
+    border-radius: 25px;
+}
+.rounded-circle{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.navbar-toggler{
+    height:40px;
+    width: 50px;
+    padding: 5px;
+    margin-right: 11px;
+   
+    
+}
+.bg-light{
+    background-color: rgb(128, 240, 206) !important;
+}
+
+p{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(176, 241, 176);
+    
+}
+
+
+.modal-header,
+.modal-body,
+.modal-footer {
+    border: none;
+}
